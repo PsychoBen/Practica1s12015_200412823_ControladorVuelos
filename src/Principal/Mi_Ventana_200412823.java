@@ -30,7 +30,7 @@ public class Mi_Ventana_200412823 extends JFrame
      */
     public Mi_Ventana_200412823() {
         setContentPane(contenedor);
-        setImagen("/imagenes/Fondo2.jpg");
+        setImagen("/Images/Fondo2.jpg");
        // panelEditor.setVisible(true);
     }
 
